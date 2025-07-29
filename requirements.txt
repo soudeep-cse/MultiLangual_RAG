@@ -1,0 +1,11 @@
+easyocr
+PyMuPDF
+tqdm
+bnunicodenormalizer
+stopwordsiso
+langchain
+langchain-community
+faiss-cpu
+langchain-openai
+python-dotenv
+ipykernel 
